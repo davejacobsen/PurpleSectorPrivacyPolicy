@@ -2,7 +2,7 @@
 
 **Privacy Policy**
 
-David Jacobsen built the Purple Sector app as a free app with in app purchases available. This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+David Jacobsen built the Purple Sector app as a commercial app. This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 **Information Collection and Use**
 
